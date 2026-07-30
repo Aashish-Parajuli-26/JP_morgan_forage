@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Quantization_(signal_processing)
+https://en.wikipedia.org/wiki/Likelihood_function
+https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming
